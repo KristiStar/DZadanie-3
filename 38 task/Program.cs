@@ -3,6 +3,7 @@
 // [3 7 22 2 78] -> 76
 
 
+
 double[] GenerateArray(int size) 
 {
     double[] array = new double[size]; 
