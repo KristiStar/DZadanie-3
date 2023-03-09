@@ -57,4 +57,3 @@ var myMatrix = GenerateMatrix(numbersRows, numbersCols);
 PrintMatrix(myMatrix);
 SearchNumbers(myMatrix);
 System.Console.WriteLine();
-
