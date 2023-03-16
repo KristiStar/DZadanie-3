@@ -1,0 +1,15 @@
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\bin\Debug\net7.0\68 task.exe
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\bin\Debug\net7.0\68 task.deps.json
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\bin\Debug\net7.0\68 task.runtimeconfig.json
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\bin\Debug\net7.0\68 task.dll
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\bin\Debug\net7.0\68 task.pdb
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.csproj.AssemblyReference.cache
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.AssemblyInfoInputs.cache
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.AssemblyInfo.cs
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.csproj.CoreCompileInputs.cache
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.dll
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\refint\68 task.dll
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.pdb
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\68 task.genruntimeconfig.cache
+D:\GeekBrains\visual studio code\языки\3 семинар DZadanie\68 task\obj\Debug\net7.0\ref\68 task.dll
